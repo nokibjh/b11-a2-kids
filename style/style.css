@@ -296,7 +296,7 @@ main{
 }
 .btn-stories{
     padding: 10px 25px;
-    border-radius: 47.93px;
+    border-radius: 40.93px;
     background: rgb(60, 216, 232);
     color: #fff;
     border: none;
@@ -341,7 +341,7 @@ main{
     position: relative;
 }
 .btn-card1{
-    border-radius: 47.93px;
+    border-radius: 40.93px;
     color: #ffffff;
     border: none;
     text-align: center;
@@ -352,7 +352,7 @@ main{
     top: -20px;
     right: -20px;
     font-family: Raleway;
-    font-size: .90rem;
+    font-size: .80rem;
     font-weight: 500;
     } 
 .btn-card1:hover{
@@ -371,7 +371,7 @@ main{
     border-radius: 10px 10px 0px 0px;
 }
 .btn-card2{
-    border-radius: 47.93px;
+    border-radius: 40.93px;
     background: #5D58F0;
     color: #fff;
     border: none;
@@ -381,7 +381,7 @@ main{
     top: -20px;
     right: -20px;
     font-family: Raleway;
-    font-size: .90rem;
+    font-size: .80rem;
     font-weight: 500;
     }
 .card-3{
@@ -397,7 +397,7 @@ main{
         border-radius: 10px 10px 0px 0px;
  }
  .btn-card3{
-    border-radius: 47.93px;
+    border-radius: 40.93px;
     background: #011058;
     color: #fff;
     border: none;
@@ -407,7 +407,7 @@ main{
     top: -20px;
     right: -20px;
     font-family: Raleway;
-    font-size: .90rem;
+    font-size: .80rem;
     font-weight: 500;
     }
 .card-4{
@@ -423,7 +423,7 @@ main{
     border-radius: 10px 10px 0px 0px;
 }
 .btn-card4{
-    border-radius: 47.93px;
+    border-radius: 40.93px;
     background: #781d01;
     color: #ffffff;
     border: none;
@@ -433,7 +433,7 @@ main{
     top: -20px;
     right: -20px;
     font-family: Raleway;
-    font-size: .90rem;
+    font-size: .80rem;
     font-weight: 500;
 }
 .btn-card4:hover{
@@ -663,7 +663,7 @@ margin-top: 30px;
             
      } 
      .btn-card2{
-        border-radius: 47.93px;
+        border-radius: 40.93px;
         background: #5D58F0;
         color: #fff;
         border: none;
@@ -677,7 +677,7 @@ margin-top: 30px;
         font-weight: 300; 
      } 
      .btn-card3{
-        border-radius: 47.93px;
+        border-radius: 40.93px;
         background: #011058;
         color: #fff;
         border: none;
@@ -691,7 +691,7 @@ margin-top: 30px;
         font-weight: 300;
      } 
      .btn-card4{
-        border-radius: 47.93px;
+        border-radius: 40.93px;
         background: #781d01;
         color: #ffffff;
         border: none;
