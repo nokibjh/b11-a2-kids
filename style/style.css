@@ -471,8 +471,92 @@ main{
     }
 
 /* start footer section */
+    .footer{
+        padding: 60px 0px 60px 0px;
+        max-width: 1500px;
+        width: 100%;
+        margin: 0 auto;
+        background: rgb(1,172,253);
+    }
+    .footer-containar{
+        padding: 50px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .logo{
+        display: flex;
+        justify-content: flex-start;
+        gap: 20px;
+    }
+    #kids{
+        color: rgb(255, 255, 255);
+        font-family: Quicksand;
+        font-size: 2.8rem;
+        font-weight: 700;
+        line-height: 39.50px;
+
+    }
+.footer-description{
+color: rgb(255, 255, 255);
+font-size: 1rem;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 30px;
+
+ }
+ .part-2{
+    display: flex;
+    flex-direction: column;
+ }
+ .part-title-2{
+    color: rgb(255, 255, 255);
+    font-family: Quicksand;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0%;
+ }
+ .part-2 ul{
+    list-style: none;
+    margin-top: 20px;
+ }
+ .part-2 ul li a{
+    text-decoration: none;
+ }
+ .part-3{
+    display: flex;
+    flex-direction: column;
+ }
+ .part-title-3{
+    color: rgb(255, 255, 255);
+    font-family: Quicksand;
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 0%;
+ }
+.iconic{
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px
+}
     
-    
+.list-ul ul{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.list-ul ul li a{
+    color: rgb(255, 255, 255);
+    font-family: Quicksand;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0%;
+}
+
 
 
     
@@ -636,6 +720,9 @@ main{
         font-weight: 500;
         margin-top: 10px;
         margin-left: 20px;
+}
+.footer-containar{
+    flex-direction: column;
 }
 
 }
